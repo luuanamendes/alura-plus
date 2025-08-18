@@ -15,3 +15,7 @@ body{
     background-color: var(--preto-fundo);
     color: var(--branco-principal);
 }
+
+.principal{
+    background-image: url("../img/background.png");
+}
